@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889939334512",
+    "project_id": "futbol21-firebase-4fa64",
+    "storage_bucket": "futbol21-firebase-4fa64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889939334512:android:6f153f5d4790d870db2bb5",
+        "android_client_info": {
+          "package_name": "com.example.futbol206"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889939334512-vshuqrc78m235826srnf9ogbuj2b8bvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBcaBEvf2LmD8MFG0mJst8CCfw6c_QjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889939334512-vshuqrc78m235826srnf9ogbuj2b8bvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
